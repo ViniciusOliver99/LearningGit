@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCommits", "LearningCommits\LearningCommits.csproj", "{2180159D-F760-4A0D-89B9-E8AC57B58DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2180159D-F760-4A0D-89B9-E8AC57B58DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2180159D-F760-4A0D-89B9-E8AC57B58DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2180159D-F760-4A0D-89B9-E8AC57B58DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2180159D-F760-4A0D-89B9-E8AC57B58DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3687FC-A2C5-440E-BA33-E0137F46D544}
+	EndGlobalSection
+EndGlobal
